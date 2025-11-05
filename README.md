@@ -1,4 +1,4 @@
-# reset_voicemail
+# Reset Voicemail
 
 ## This script is used to delete all voicemails from a PBXware system
 
